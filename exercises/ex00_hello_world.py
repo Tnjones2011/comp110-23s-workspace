@@ -1,4 +1,6 @@
-print("Hello, world.")
-""" My first program for COMP 110"""
-__author__ = "730622369"
-Git: Push to...
+print ("Hello, world.")
+"""My first program for COMP 110"""
+__author__ = 730622369
+
+
+
